@@ -1,0 +1,9 @@
+Integrantes:
+
+RM: 560771 - Nome: Arthur Gomes (Tech Lead)
+RM: 560110 - Nome: Luiz Silva
+RM: 560248 - Nome: Matheus Siroma
+RM: 560642 - Nome: Pedro Estevam
+
+Repositório (público):
+https://github.com/arthurgomes7/CP2-Cs
